@@ -1,5 +1,6 @@
 import java.util.Scanner;
-class C    
+class C 
+//change2	
 {
 	public static void main(String[] args) 
 	{
