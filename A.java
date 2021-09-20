@@ -1,5 +1,6 @@
 import java.util.Scanner;
 class B 
+//change1
 {
 	public static void main(String[] args) 
 	{
