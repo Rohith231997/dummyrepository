@@ -1,6 +1,11 @@
 import java.util.Scanner;
-class C 
+
+
 //change2	
+
+class C	
+//change1	
+
 {
 	public static void main(String[] args) 
 	{
