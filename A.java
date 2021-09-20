@@ -1,6 +1,7 @@
 import java.util.Scanner;
 class B 
 {
+	@#$
 	public static void main(String[] args) 
 	{
        System.out.println("enter the number of rows");
