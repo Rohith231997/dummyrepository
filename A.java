@@ -1,6 +1,5 @@
 import java.util.Scanner;
-class B 
-//change2
+class C    
 {
 	public static void main(String[] args) 
 	{
@@ -11,7 +10,7 @@ class B
 		{
 		   for(int j=0;j<n;j++)
 			{
-			   if(i==0||i==n/2||j==0||i==n-1||(i!=0||i!=n-1||i!=n/2)&&j==n/2)
+			   if( j==0||(i!=0&&i!=n-1)||(i==0||i==n-1)&&(j>0&&j<n/2))
 				{
                    System.out.print("*");
 				}
@@ -24,3 +23,4 @@ class B
          }
 	}
 }
+
